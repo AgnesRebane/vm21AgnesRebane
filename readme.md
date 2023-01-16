@@ -14,3 +14,7 @@
 `git rm --cashed -r.`
 
 `git add .`
+
+`git config --global core.editor "code --wait"`
+
+#heihei
